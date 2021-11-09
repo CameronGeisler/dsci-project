@@ -2,7 +2,7 @@
 
 ## Cardiovascular Disease dataset 
 
-**Data Set:** https://www.kaggle.com/sulianova/cardiovascular-disease-dataset 
+**Data Set:** https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
 **Group Members:** 
